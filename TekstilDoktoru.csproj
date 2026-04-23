@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="SkiaSharp.Views.WPF" Version="2.88.3" />
+    <PackageReference Include="netDxf" Version="2.4.0" />
+    <PackageReference Include="CommunityToolkit.Mvvm" Version="8.1.1" />
+  </ItemGroup>
+
+</Project>
