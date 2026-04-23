@@ -1,0 +1,40 @@
+{
+  "version": 2,
+  "dgSpecHash": "hqa3fWK3Vd4=",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Tekstil-WPF\\Project\\TekstilDoktoru\\TekstilDoktoru.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\param\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.0\\communitytoolkit.mvvm.8.2.0.nupkg.sha512",
+    "C:\\Users\\param\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\param\\.nuget\\packages\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",
+    "C:\\Users\\param\\.nuget\\packages\\netdxf\\3.0.1\\netdxf.3.0.1.nupkg.sha512",
+    "C:\\Users\\param\\.nuget\\packages\\skiasharp\\2.88.3\\skiasharp.2.88.3.nupkg.sha512",
+    "C:\\Users\\param\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.3\\skiasharp.nativeassets.macos.2.88.3.nupkg.sha512",
+    "C:\\Users\\param\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.3\\skiasharp.nativeassets.win32.2.88.3.nupkg.sha512",
+    "C:\\Users\\param\\.nuget\\packages\\skiasharp.views.desktop.common\\2.88.3\\skiasharp.views.desktop.common.2.88.3.nupkg.sha512",
+    "C:\\Users\\param\\.nuget\\packages\\skiasharp.views.wpf\\2.88.3\\skiasharp.views.wpf.2.88.3.nupkg.sha512",
+    "C:\\Users\\param\\.nuget\\packages\\system.drawing.common\\4.5.1\\system.drawing.common.4.5.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "TekstilDoktoru depends on CommunityToolkit.Mvvm (>= 8.1.1) but CommunityToolkit.Mvvm 8.1.1 was not found. CommunityToolkit.Mvvm 8.2.0 was resolved instead.",
+      "libraryId": "CommunityToolkit.Mvvm",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "TekstilDoktoru depends on netDxf (>= 2.4.0) but netDxf 2.4.0 was not found. netDxf 3.0.1 was resolved instead.",
+      "libraryId": "netDxf",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    }
+  ]
+}
